@@ -1,0 +1,36 @@
+* Market Share Game Design Doc
+
+** Concepts
+*** Workers
+*** Products
+*** Sectors
+*** R&D
+- Bid/placement system to get companies? 
+*** Mergers/Takeovers
+Merger auctions idea (for more frequent auctions)
+n = number of players
+each round is a blind bid:
+1. n
+2. n-1
+3. n-2
+4. etc
+
+Each round lowest bid is dropped  and becomes min bid for next round
+*** Operations / Marketing?
+Area majority market game using sectors
+
+Some ideas
+- Marketing - players commit cubes to a bag at the end of each round
+- Cubes are drawn and players choose where to add them or some such
+
+**** How do cubes get onto sectors?
+- Opening a company adds a cube to a sector
+- Marketing can add a cube to a sector (pull a cube from the bag) player chooses to increase his control in an area?
+- Mergers can adjust cubes (non-matching mergers)
+- Possibly a dungeon petz like hidden action bid system (features overbidding etc)
+
+  
+
+
+
+*** Sales
